@@ -5,3 +5,5 @@
 #This change is by Harshil Patel! 
 
 #Now making a change and Tirth is fetching the changes in local repo.
+
+#Creating an intentional conflict
